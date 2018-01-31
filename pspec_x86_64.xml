@@ -2,8 +2,8 @@
     <Source>
         <Name>python-logilab-common</Name>
         <Packager>
-            <Name>Ewan Paterson</Name>
-            <Email>ewan.paterson@hotmail.co.uk</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Packager>
         <License>GPL-2.0</License>
         <License>LGPL-2.1</License>
@@ -106,100 +106,100 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/logilab_common-1.4.1-py2.7.egg-info/namespace_packages.txt</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/logilab_common-1.4.1-py2.7.egg-info/requires.txt</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/logilab_common-1.4.1-py2.7.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/cache.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/changelog.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/clcommands.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/compat.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/configuration.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/daemon.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/date.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/debugger.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/decorators.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/deprecation.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/fileutils.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/graph.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/interface.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/logging_ext.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/modutils.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/optik_ext.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/optparser.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/proc.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/pytest.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/registry.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/shellutils.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/sphinx_ext.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/sphinxutils.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/table.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/tasksqueue.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/testlib.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/textutils.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/tree.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/umessage.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/urllib2ext.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/vcgutils.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/visitor.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/__pycache__/xmlutils.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/cache.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/changelog.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/clcommands.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/compat.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/configuration.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/daemon.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/date.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/debugger.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/decorators.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/deprecation.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/fileutils.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/graph.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/interface.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/logging_ext.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/modutils.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/optik_ext.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/optparser.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/proc.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/pytest.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/registry.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/shellutils.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/sphinx_ext.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/sphinxutils.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/table.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/tasksqueue.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/testlib.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/textutils.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/tree.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/umessage.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/ureports/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/ureports/__pycache__/__init__.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/ureports/__pycache__/docbook_writer.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/ureports/__pycache__/html_writer.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/ureports/__pycache__/nodes.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/ureports/__pycache__/text_writer.cpython-35.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/ureports/docbook_writer.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/ureports/html_writer.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/ureports/nodes.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/ureports/text_writer.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/urllib2ext.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/vcgutils.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/visitor.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab/common/xmlutils.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab_common-1.4.1-py3.5-nspkg.pth</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab_common-1.4.1-py3.5.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab_common-1.4.1-py3.5.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab_common-1.4.1-py3.5.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab_common-1.4.1-py3.5.egg-info/namespace_packages.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab_common-1.4.1-py3.5.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/logilab_common-1.4.1-py3.5.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/cache.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/changelog.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/clcommands.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/compat.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/configuration.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/daemon.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/date.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/debugger.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/decorators.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/deprecation.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/fileutils.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/graph.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/interface.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/logging_ext.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/modutils.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/optik_ext.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/optparser.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/proc.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/pytest.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/registry.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/shellutils.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/sphinx_ext.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/sphinxutils.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/table.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/tasksqueue.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/testlib.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/textutils.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/tree.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/umessage.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/urllib2ext.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/vcgutils.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/visitor.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/__pycache__/xmlutils.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/cache.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/changelog.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/clcommands.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/compat.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/configuration.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/daemon.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/date.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/debugger.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/decorators.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/deprecation.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/fileutils.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/graph.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/interface.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/logging_ext.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/modutils.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/optik_ext.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/optparser.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/proc.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/pytest.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/registry.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/shellutils.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/sphinx_ext.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/sphinxutils.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/table.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/tasksqueue.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/testlib.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/textutils.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/tree.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/umessage.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/ureports/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/ureports/__pycache__/__init__.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/ureports/__pycache__/docbook_writer.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/ureports/__pycache__/html_writer.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/ureports/__pycache__/nodes.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/ureports/__pycache__/text_writer.cpython-36.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/ureports/docbook_writer.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/ureports/html_writer.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/ureports/nodes.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/ureports/text_writer.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/urllib2ext.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/vcgutils.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/visitor.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab/common/xmlutils.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab_common-1.4.1-py3.6-nspkg.pth</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab_common-1.4.1-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab_common-1.4.1-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab_common-1.4.1-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab_common-1.4.1-py3.6.egg-info/namespace_packages.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab_common-1.4.1-py3.6.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/logilab_common-1.4.1-py3.6.egg-info/top_level.txt</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2017-09-16</Date>
+        <Update release="2">
+            <Date>2018-01-30</Date>
             <Version>1.4.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Ewan Paterson</Name>
-            <Email>ewan.paterson@hotmail.co.uk</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Update>
     </History>
 </PISI>
